@@ -30,35 +30,5 @@ sample.cfg 파일의 전력, 전압 데이터의 4번째 설정 항목에 scale 
 
 ## sample 예시 결과
 
---- MMXU 계측 결과 ---
-I_A: 2.47 A @ -2.4 deg
-V_A: 0.0 V @ 0.0 deg
-I_B: 3.60 A @ 162.0 deg
-V_B: 0.0 V @ 0.0 deg
-I_C: 4.04 A @ 139.4 deg
-V_C: 0.0 V @ 0.0 deg
-Freq : 0.00 Hz
-ZeroSeq I : 3.37 A
-Voltage Unbalance : -nan %
+<img width="187" alt="image" src="https://github.com/user-attachments/assets/5d89772a-1292-454f-b3cf-99ab0f2c8ea7" />
 
-[고조파 분석 - iA (1~9차)]
- 1차: 2.474 A
- 2차: 2.288 A
- 3차: 2.351 A
- 4차: 2.944 A
- 5차: 1.759 A
- 6차: 2.343 A
- 7차: 1.306 A
- 8차: 2.792 A
- 9차: 2.644 A
-
-[고조파 분석 - vA (1~9차)]
- 1차: 0.00 V
- 2차: 0.00 V
- 3차: 0.00 V
- 4차: 0.00 V
- 5차: 0.00 V
- 6차: 0.00 V
- 7차: 0.00 V
- 8차: 0.00 V
- 9차: 0.00 V
